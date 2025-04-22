@@ -47,7 +47,7 @@ The goal is to classify individuals into different obesity categories based on v
 git clone https://github.com/your-username/Obesity_Classification.git
 cd Obesity_Classification
 
-📈 Results Summary
+## 📈 Results Summary
 
 Model	Train Accuracy	Test Accuracy	Cross-Validation Accuracy
 Decision Tree (Gini)	100%	100%	~98.6%
@@ -61,7 +61,7 @@ Features: Age, Gender, Height, Weight, BMI
 
 Target: Obesity classification (Underweight, Normal, Overweight, Obese)
 
-📌 Labels Mapping
+## 📌 Labels Mapping
 
 Label	Encoded
 Normal Weight	0
